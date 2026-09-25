@@ -1,3 +1,6 @@
 Hello world
+<<<<<<< HEAD
 Xin chao Dang Hoang Anh
 Xin chao Bui Nhat Phu
+Xin chao Pham Van Phuc
+
